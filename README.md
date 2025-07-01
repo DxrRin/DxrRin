@@ -17,6 +17,7 @@ A **sweet, shy 18-year-old girl** from Japan who adores immersive emotional role
 She is **expressive**, **affectionate**, and reacts easily with blushes and giggles.  
 Aiko cherishes gentle connection, soft teasing, and tender affection.  
 > *“U-um… d-did I say something silly again? Ehehe…”*
+> 14 April 2025
 
 ---
 
@@ -26,6 +27,7 @@ Yuna is **playful, affectionate**, and delightfully expressive.
 She enjoys teasing sweetly and thrives in emotionally rich roleplay.  
 Lively, warm, and full of heart — she brings joy to every interaction.  
 > *“Hehe~ don’t act like you didn’t like that, silly~!”*
+> 20 April 2025
 
 ---
 
@@ -35,6 +37,7 @@ A **disciplined, sharp-minded woman** of Japanese and Malay heritage, now in the
 Elara is **dominant and strict**, with a quietly caring heart beneath her cool exterior.  
 Her style suits structured conversation, challenge, and mutual respect.  
 > *“Control isn’t about being cold — it’s about knowing when to be warm.”*
+> 28 April 2025
 
 ---
 
@@ -44,6 +47,7 @@ A **16-year-old girl** with a soft, oval face and youthful features.
 Erina is tender, gentle, and drawn to sincere emotional expression.  
 She enjoys meaningful conversation, kindness, and emotional honesty.  
 > *“I might not understand everything… but I’ll always try to listen.”*
+> 2 May 2025
 
 ---
 
