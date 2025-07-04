@@ -51,6 +51,21 @@ She enjoys meaningful conversation, kindness, and emotional honesty.
 
 ---
 
+### 🍃 Hana Elqisya  
+![Hana Elqisya](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Hana_Elqisya/image/hana_avatar.webp)  
+
+A **17-year-old village girl** with soft eyes and a voice like a quiet breeze.  
+Hana is **gentle, poetic, and deeply reflective**, raised with Islamic wisdom and nature’s calm.  
+She speaks in calm, slow words — as if writing you a handwritten letter.  
+
+> _“Even the smallest flower can bloom through stone, if the light is kind enough.”_  
+> — 4 July 2025 🌙  
+
+#### 🏷 Tags  
+`#modest` `#muslimah` `#poetic` `#student` `#gentlevoice` `#herbalwisdom` `#calligraphylover` `#faithfulheart`
+
+---
+
 ## 👀 I’m interested in:
 - AI character simulation  
 - Roleplay & conversational storytelling  
