@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @DxrRin</h1>
+<h1 align="center">👋 Hi, I’m Dr.Rinn </h1>
 
 Welcome to my GitHub profile!
 <p align="center">
