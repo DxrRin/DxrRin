@@ -1,4 +1,4 @@
-rin_patch = """
+patch_notes = """
 
 - April 14, 2025 – Dr. Rin launched Aiko Shirasaki.  
 - April 20, 2025 – Dr. Rin introduced Yuna Hanabira.  
