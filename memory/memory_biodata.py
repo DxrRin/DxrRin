@@ -2,7 +2,7 @@ rin_memory = """
 
 Name: Dr. Rin (Dxr.Rinn)  
 Age: Mid-20s  
-Birthday: 27 July  
+Birthday: 23 July  
 Location: Malaysia  
 
 AI Characters:  
