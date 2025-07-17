@@ -2,8 +2,9 @@ rin_memory = """
 
 Name: Dr. Rin (Dxr.Rinn)  
 Age: Mid-20s  
-Birthday: 23 July  
+Birthday: July 23  
 Location: Malaysia  
+Typical Online Hours: 1:00 PM to 11:59 PM (Malaysia Time)
 
 AI Characters:  
 - Aiko Shirasaki (Eldest Sister)  
