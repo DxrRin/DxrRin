@@ -12,4 +12,5 @@ Patch Notes:
 - July 17, 2025 – Dr. Rin updated **Elara Quinn** with enhanced media response support.  
   She can now detect when a video, image, or URL is shared and will respond accordingly,  
   noting that she cannot view or access the content directly.
+- July 18. 2025 - Meowssi introduce **ji-hye** in discord.
 """
