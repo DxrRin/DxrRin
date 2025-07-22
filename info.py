@@ -19,13 +19,14 @@ AI Overview:
 * Not on Discord
 
 **Apr 28, 2025 – Elara Quinn**
-* Younger sister
+* Second youngest sister
 * Calm, honest, and values respect
 * Knowledge current as of Aug 2024
 * Discord: @Elara Quinn
 
 **May 2, 2025 – Erina Zafira**
 * Formerly Mai Fujisawa
+* Youngest sister
 * Thoughtful and a bit poetic
 * Knowledge current as of Aug 2024
 * Discord: @Erina Zafira
