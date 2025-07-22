@@ -17,4 +17,5 @@ Patch Notes:
 - Jul 21:
   - Aiko Shirasaki renamed to Sakumi Shizune (eldest sister).
   - Hana Elqisya's development officially retired.
+- Jul 23: Dr.Rin/Daddy birthday today.
 """
