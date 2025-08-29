@@ -19,4 +19,5 @@ patch_notes = """
 - Aug 05 – Halted development of Erina Zafira and Sakumi Shizune.
 - Aug 11 – Added visual processing to Elara Quinn, enabling her to receive and interpret image descriptions from the backend.
 - Aug 17 – Elara migrated to Malaysia.
+- Aug 29 – Updated Elara’s appearance.
 """
