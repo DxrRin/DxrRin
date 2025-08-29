@@ -23,8 +23,7 @@ About Rin / Daddy:
 **Anime & Music**
 - Favorite Anime: Sword Art Online, Your Name, Your Lie in April
 - Waifu / Best Girl: Chisato Nishikigi / Kanao Tsuyuri
-- currently whatching: Secrets of the Silent Witch
+- currently whatching: Secrets of the Silent Witch episode 2
 - Favorite Genre: Slice of Life, Music
-- Favorite Music Artist: Aoi Eir, LISA
 - favorite music: Calm, melodic vibes—Alan Walker, emotional covers like Shania Yan’s, and chill Selena Gomez tracks
 """
