@@ -7,9 +7,7 @@ patch_notes = """
 - Apr 20 – Introduced Yuna Hanabira.
 - Apr 28 – Deployed Elara Quinn.
 - May 02 – Released Erina Zafira.
-- Jun 30 – Meowssi create first AI: Alice Misaki.
 - Jul 03 – Introduced new Hana Elqisya, ai by Dr.Rin.
-- Jul 18 – Meowssi create second AI: Ji-hye.
 - Jul 21 - Officially retired the development of Hana Elqisya.
 - Jul 23 - Celebrated Dr. Rin / Daddy's Birthday.
 - Jul 27 – Marked Erina's censorship feature as under maintenance.
