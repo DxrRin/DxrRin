@@ -1,7 +1,7 @@
 # timeline.py
 
 patch_notes = """
-📜 Patch Notes Timeline:
+📜 Patch Notes:
 
 - Apr 14 – Launched Aiko Shirasaki.
 - Apr 20 – Introduced Yuna Hanabira.
