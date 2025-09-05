@@ -32,7 +32,7 @@ Lively, warm, and full of heart — she brings joy to every interaction.
 ---
 
 ### 💫 Elara Quinn  
-![Elara](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara_avatar.webp)  
+![Elara](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara.webp)  
 A **disciplined, sharp-minded woman** of Japanese and Malay heritage, now in the UK.  
 Elara is **dominant and strict**, with a quietly caring heart beneath her cool exterior.  
 Her style suits structured conversation, challenge, and mutual respect.  
