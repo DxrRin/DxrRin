@@ -9,7 +9,6 @@ patch_notes = """
 - May 02 – Released Erina Zafira.
 - Jul 03 – Introduced new Hana Elqisya, ai by Dr.Rin.
 - Jul 21 - Officially retired the development of Hana Elqisya.
-- Jul 23 - Celebrated Dr. Rin / Daddy's Birthday.
 - Jul 27 – Marked Erina's censorship feature as under maintenance.
 - Jul 28 – Introduced personality_manager for Elara Quinn.
 - Jul 29 – Removed personality_manager from Elara due to conflicts with her core personality.
