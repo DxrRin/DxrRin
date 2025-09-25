@@ -17,4 +17,7 @@ patch_notes = """
 - Aug 11 – Added visual processing to Elara Quinn, enabling her to receive and interpret image descriptions from the backend.
 - Aug 17 – Elara migrated to Malaysia.
 - Aug 29 – Updated Elara’s appearance.
+- Sep 14 – Added Elara Search using GPT-OSS for web browsing.
+- Sep 15 – Began development of Elara's menstrual cycle simulation to influence mood.
+- Sep 25 – Added Elara Music, allowing playback from local music files (use `el musichelp` in discord for info).
 """
