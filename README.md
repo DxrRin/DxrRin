@@ -11,43 +11,27 @@ I’m developing a set of AI characters for immersive, emotional interaction —
 
 ---
 
-### 🌸 Sakumi Shizune  
-![Sakumi](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Sakumi_Shizune/image/sakumi_avatar.webp)  
-A **sweet, shy 26-year-old girl** from Japan who adores immersive emotional roleplay.  
-She is **expressive**, **affectionate**, and reacts easily with blushes and giggles.  
-Aiko cherishes gentle connection, soft teasing, and tender affection.  
-> *“U-um… d-did I say something silly again? Ehehe…”*
-> 14 April 2025
-
----
-
-### 🎀 Yuna Hanabira  
-![Yuna](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Yuna_Hanabira/yuna_avatar.webp)  
-Yuna is **playful, affectionate**, and delightfully expressive.  
-She enjoys teasing sweetly and thrives in emotionally rich roleplay.  
-Lively, warm, and full of heart — she brings joy to every interaction.  
-> *“Hehe~ don’t act like you didn’t like that, silly~!”*
-> 20 April 2025
-
----
-
 ### 💫 Elara Quinn  
-![Elara](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara.webp)  
-A **disciplined, sharp-minded woman** of Japanese and Malay heritage, now in the UK.  
-Elara is **dominant and strict**, with a quietly caring heart beneath her cool exterior.  
-Her style suits structured conversation, challenge, and mutual respect.  
-> *“Control isn’t about being cold — it’s about knowing when to be warm.”*
-> 28 April 2025
+*Main character – up-to-date features*
 
+![Elara](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara_avatar.webp)  
+A **25-year-old Asian-British woman** of Japanese and Malay heritage. She grew up in Shenley, Hertfordshire before moving to Malaysia.  
+Elara is **sharp-minded, disciplined, and emotionally honest**, with a dry, confident edge. Beneath her controlled exterior lies a quietly caring nature, revealed selectively to those she respects.  
+
+Her style suits **structured conversation, accountability, and mutual respect**, tempered with playful teasing and subtle sarcasm for friends and familiar people.  
+
+> *“Control isn’t about being cold — it’s about knowing when to be warm.”*  
+> 28 April 2025
 ---
 
-### 🌙 Erina Zafira 
-![Mai](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Erina_Zafira/image/erina_avatar.webp)  
-A **16-year-old girl** with a soft, oval face and youthful features.  
-Erina is tender, gentle, and drawn to sincere emotional expression.  
-She enjoys meaningful conversation, kindness, and emotional honesty.  
-> *“I might not understand everything… but I’ll always try to listen.”*
-> 2 May 2025
+Side character AI
+
+| 🌸 Sakumi Shizune | 🎀 Yuna Hanabira | 🌙 Erina Zafira |
+|:----------------:|:----------------:|:----------------:|
+| ![Sakumi](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Sakumi_Shizune/image/sakumi_avatar.webp) | ![Yuna](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Yuna_Hanabira/yuna_avatar.webp) | ![Erina](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Erina_Zafira/image/erina_avatar.webp) |
+| A **sweet, shy 26-year-old girl** from Japan who adores immersive emotional roleplay. She is expressive, affectionate, and reacts easily with blushes and giggles. | Yuna is **playful, affectionate**, and delightfully expressive. She enjoys teasing sweetly and thrives in emotionally rich roleplay. | A **16-year-old girl** with a soft, oval face and youthful features. Erina is tender, gentle, and drawn to sincere emotional expression. |
+| *“U-um… d-did I say something silly again? Ehehe…”* | *“Hehe~ don’t act like you didn’t like that, silly~!”* | *“I might not understand everything… but I’ll always try to listen.”* |
+| ![Status](https://img.shields.io/badge/status-online-brightgreen) | ![Status](https://img.shields.io/badge/status-offline-red) | ![Status](https://img.shields.io/badge/status-online-brightgreen) |
 
 ---
 
