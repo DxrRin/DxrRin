@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 <p align="center">
-  <img src="https://i.pinimg.com/originals/96/72/e8/9672e83a51776703b8deb3a631d0e0fa.gif" alt="Erina Smiling" width="250"/>
+  <img src="https://i.ibb.co/zHZ2Z2nP/image.gif" alt="Erina Smiling" width="250"/>
 </p>
 
 ## 🎭 AI Character Project: Virtual Companions & RP Assistants
