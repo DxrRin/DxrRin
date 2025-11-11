@@ -11,7 +11,7 @@ I’m developing a set of AI characters for immersive, emotional interaction —
 
 ---
 
-### 💫 Elara Quinn  
+### 💫 Elara Quivelle
 *Main character – up-to-date features*
 
 ![Elara](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara_avatar.webp)  
