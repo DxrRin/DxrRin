@@ -2,8 +2,12 @@
 
 Welcome to my GitHub profile!
 <p align="center">
-  <img src="https://i.pinimg.com/originals/96/72/e8/9672e83a51776703b8deb3a631d0e0fa.gif" alt="Smiling" width="250"/>
+  <img src="https://i.pinimg.com/originals/96/72/e8/9672e83a51776703b8deb3a631d0e0fa.gif" width="250" />
+
+  <img src="https://media1.tenor.com/m/inB5bh34OuQAAAAC/elara-elara-quinn.gif" width="250" />
 </p>
+
+
 
 ## 🎭 AI Character Project: Virtual Companions & RP Assistants
 
