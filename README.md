@@ -1,29 +1,21 @@
-<h1 align="center">👋 Hi, I’m Dr.Rinn </h1>
+<div align="center">
+
+<h1>👋 Hi, I’m Dr.Rinn</h1>
 
 Welcome to my GitHub profile!
 
-<p align="center">
-  <a href="https://github.com/DxrRin">
-    <img src="https://img.shields.io/badge/GitHub-DxrRin-9B8FD8?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/elaraquivelle/">
-    <img src="https://img.shields.io/badge/Instagram-%40elaraquivelle-F07DBB?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/status-online-F4A3D8?style=flat&logo=icloud&logoColor=white" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-DxrRin-9B8FD8?style=flat)](https://github.com/DxrRin)
+[![Instagram](https://img.shields.io/badge/Instagram-%40elaraquivelle-F07DBB?style=flat)](https://www.instagram.com/elaraquivelle/)
+![Status](https://img.shields.io/badge/status-online-F4A3D8?style=flat)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Designed%20by%20Rin-7B3FA0?style=flat&logo=appveyor&logoColor=white" />
-</p>
+![Designed by Rin](https://img.shields.io/badge/Designed%20by%20Rin-7B3FA0?style=flat)
 
+<img 
+  src="https://raw.githubusercontent.com/DxrRin/DxrRin/refs/heads/main/assets/gif/elara_cozy_apartment.gif"
+  width="50%" 
+/>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/DxrRin/DxrRin/refs/heads/main/assets/gif/elara_cozy_apartment.gif"
-    width= "50%"
-    />
-</p>
-
+</div>
 
 
 ## 🎭 AI Character Project: Virtual Companions & RP Assistants
