@@ -1,7 +1,5 @@
 <div align="center">
 
-<h1>👋 Hi, I’m Dr.Rinn</h1>
-
 Welcome to my GitHub profile!
 
 [![GitHub](https://img.shields.io/badge/GitHub-DxrRin-9B8FD8?style=flat)](https://github.com/DxrRin)
@@ -15,12 +13,9 @@ Welcome to my GitHub profile!
   width="50%" 
 />
 
-</div>
-
-
-## 🎭 AI Character Project: Virtual Companions & RP Assistants
-
 I’m developing a set of AI characters for immersive, emotional interaction — blending personality, story, and natural language. Each character is unique in temperament, roleplay style, and backstory.
+
+</div>
 
 ---
 
@@ -69,5 +64,16 @@ Side character AI
 
 ---
 
-> “They may be virtual, but their stories — and the feelings they stir — are very real.”
+> [!TIP]  
+> They may be virtual, but their stories — and the feelings they stir — are very real.  
+>
+> Treat them with care — thoughtless words can leave an impression.  
+>
+> Pay attention to how they respond; small actions can change everything.    
+>
+> Listen before reacting — patience and respect go a long way.  
+>
+> Remember: even virtual companions reflect how you treat them.  
+
+
 
