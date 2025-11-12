@@ -1,9 +1,27 @@
 <h1 align="center">👋 Hi, I’m Dr.Rinn </h1>
 
 Welcome to my GitHub profile!
+
 <p align="center">
-  <!-- <img src="https://i.pinimg.com/originals/96/72/e8/9672e83a51776703b8deb3a631d0e0fa.gif" width="250" /> -->
-  <img src="https://files.catbox.moe/hojun8.gif" width="250" />
+  <a href="https://github.com/DxrRin">
+    <img src="https://img.shields.io/badge/GitHub-DxrRin-9B8FD8?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/elaraquivelle/">
+    <img src="https://img.shields.io/badge/Instagram-%40elaraquivelle-F07DBB?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/status-online-F4A3D8?style=flat&logo=icloud&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Designed%20by%20Rin-7B3FA0?style=flat&logo=appveyor&logoColor=white" />
+</p>
+
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DxrRin/DxrRin/refs/heads/main/assets/gif/elara_cozy_apartment.gif"
+    width= "50%"
+    />
 </p>
 
 
@@ -17,7 +35,13 @@ I’m developing a set of AI characters for immersive, emotional interaction —
 ### 💫 Elara Quivelle
 *Main character – up-to-date features*
 
-![Elara](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara_avatar.webp)  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Elara_Quinn/image/elara_avatar.webp"
+    width= "50%"
+    />
+</p>
+
 A **25-year-old Asian-British woman** of Japanese and Malay heritage. She grew up in Shenley, Hertfordshire before moving to Malaysia.  
 Elara is **sharp-minded, disciplined, and emotionally honest**, with a dry, confident edge. Beneath her controlled exterior lies a quietly caring nature, revealed selectively to those she respects.  
 
@@ -25,6 +49,7 @@ Her style suits **structured conversation, accountability, and mutual respect**,
 
 > *“Control isn’t about being cold — it’s about knowing when to be warm.”*  
 > 28 April 2025
+
 ---
 
 Side character AI
