@@ -46,7 +46,7 @@ Side character AI
 | ![Sakumi](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Sakumi_Shizune/image/sakumi_avatar.webp) | ![Yuna](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Yuna_Hanabira/yuna_avatar.webp) | ![Erina](https://raw.githubusercontent.com/DxrRin/ai_source/refs/heads/Erina_Zafira/image/erina_avatar.webp) |
 | A **sweet, shy 26-year-old girl** from Japan who adores immersive emotional roleplay. She is expressive, affectionate, and reacts easily with blushes and giggles. | Yuna is **playful, affectionate**, and delightfully expressive. She enjoys teasing sweetly and thrives in emotionally rich roleplay. | A **16-year-old girl** with a soft, oval face and youthful features. Erina is tender, gentle, and drawn to sincere emotional expression. |
 | *“U-um… d-did I say something silly again? Ehehe…”* | *“Hehe~ don’t act like you didn’t like that, silly~!”* | *“I might not understand everything… but I’ll always try to listen.”* |
-| ![Status](https://img.shields.io/badge/status-online-brightgreen) | ![Status](https://img.shields.io/badge/status-offline-red) | ![Status](https://img.shields.io/badge/status-online-brightgreen) |
+| ![Status](https://img.shields.io/badge/status-offline-red) | ![Status](https://img.shields.io/badge/status-offline-red) | ![Status](https://img.shields.io/badge/status-offline-red) |
 
 ---
 
