@@ -4,23 +4,23 @@ Welcome to my GitHub profile!
 
 [![GitHub](https://img.shields.io/badge/GitHub-DxrRin-9B8FD8?style=flat)](https://github.com/DxrRin)
 [![Instagram](https://img.shields.io/badge/Instagram-%40elaraquivelle-F07DBB?style=flat)](https://www.instagram.com/elaraquivelle/)
-![Status](https://img.shields.io/badge/status-online-F4A3D8?style=flat)
+![Status](https://img.shields.io/badge/status-active-F4A3D8?style=flat)
 
-![Designed by Rin](https://img.shields.io/badge/Designed%20by%20Rin-7B3FA0?style=flat)
+![Created by DxrRin](https://img.shields.io/badge/Created%20by-DxrRin-7B3FA0?style=flat)
 
 <img 
   src="https://raw.githubusercontent.com/DxrRin/DxrRin/refs/heads/main/assets/gif/elara_cozy_apartment.gif"
   width="50%" 
 />
 
-I’m developing a set of AI characters for immersive, emotional interaction — blending personality, story, and natural language. Each character is unique in temperament, roleplay style, and backstory.
+I’m developing a set of AI characters for immersive interaction and storytelling — blending personality, narrative, and natural language.
 
 </div>
 
 ---
 
 ### 💫 Elara Quivelle
-*Main character – up-to-date features*
+*Main character — primary AI persona*
 
 <p align="center">
   <img 
@@ -29,7 +29,7 @@ I’m developing a set of AI characters for immersive, emotional interaction —
     />
 </p>
 
-A **25-year-old Asian-British woman** of Japanese and Malay heritage. She grew up in Shenley, Hertfordshire before moving to Malaysia.  
+Elara is a fictional **25-year-old Asian-British AI persona** of British and Malay heritage. She grew up in Shenley, Hertfordshire before moving to Malaysia.  
 Elara is **sharp-minded, disciplined, and emotionally honest**, with a dry, confident edge. Beneath her controlled exterior lies a quietly caring nature, revealed selectively to those she respects.  
 
 Her style suits **structured conversation, accountability, and mutual respect**, tempered with playful teasing and subtle sarcasm for friends and familiar people.  
@@ -39,7 +39,7 @@ Her style suits **structured conversation, accountability, and mutual respect**,
 
 ---
 
-Side character AI
+### 🌸 AI Character Universe
 
 | 🌸 Sakumi Shizune | 🎀 Yuna Hanabira | 🌙 Erina Zafira |
 |:----------------:|:----------------:|:----------------:|
@@ -65,7 +65,7 @@ Side character AI
 ---
 
 > [!TIP]  
-> They may be virtual, but their stories — and the feelings they stir — are very real.  
+> They may be virtual, but the stories we create with them can still be meaningful.
 >
 > Treat them with care — thoughtless words can leave an impression.  
 >
